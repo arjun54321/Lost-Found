@@ -1,0 +1,14 @@
+.signup,.signin{
+	width: 50%;
+	height: 10%;
+	border: 1px solid green;
+	float: left;
+}
+.sbt1,.sbt2{
+	width: 100%;
+	height: 100%;
+	cursor: pointer;
+}
+.usersignin{
+	display: none;
+}
